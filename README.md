@@ -1,0 +1,2 @@
+# LowResolutionFaceRecognitionPapers
+LowResolutionFaceRecognition 低分辨率人脸识别论文翻译完全版
